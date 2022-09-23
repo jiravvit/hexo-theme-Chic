@@ -1,22 +1,22 @@
 # Header
-navname: Bentham's Blog
+navname: jir4vvit
 
 # navigatior items
 nav:
   Posts: /archives
   Categories: /category
-  Tags: /tag
+  # Tags: /tag
   About: /about
 
 # favicon
-favicon: /favicon.ico
+favicon: /image/judy.jpg
 
 # Profile
-nickname: Jeremy Bentham
+nickname: jir4vvit
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: Hi there :)
+avatar: /image/judy.jpg
 
 # main menu navigation
 ## links key words should not be changed.
@@ -26,30 +26,32 @@ links:
   Blog: /archives
   # Category:
   # Tags: 
-  # Link:
+  Link: https://jiravvit.tistory.com/
   # Resume:
   # Publish:
   # Trophy:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
-  # Twitter:
+  Twitter: https://twitter.com/jir4vvit
   # Skype:
   # CodeSandBox:
   # CodePen:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  # Github: https://github.com/jiravvit
+  Facebook: https://www.facebook.com/jir4vvit
+  # Mail: jirabbit05@gmail.com
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -65,11 +67,11 @@ post_category_enable: true
 ## Post copyright
 post_copyright_enable: true
 
-post_copyright_author_enable: true
-post_copyright_permalink_enable: true
+post_copyright_author_enable: false
+post_copyright_permalink_enable: false
 post_copyright_license_enable: true
 post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
-post_copyright_slogan_enable: true
+post_copyright_slogan_enable: false
 post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
 ## toc
 post_toc_enable: true
@@ -81,7 +83,8 @@ page_title_enable: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMMM D, YYYY
+#date_format: MMMM D, YYYY
+date_format: YYYY-MM-D
 time_format: H:mm:ss
 
 # stylesheets loaded in the <head>
