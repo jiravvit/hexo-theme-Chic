@@ -5,7 +5,7 @@ navname: jir4vvit
 nav:
   Posts: /archives
   Categories: /category
-  # Tags: /tag
+  Tags: /tag
   About: /about
 
 # favicon
@@ -26,7 +26,7 @@ links:
   Blog: /archives
   # Category:
   # Tags: 
-  Link: https://jiravvit.tistory.com/
+  Link: mailto:jirabbit05@gmail.com
   # Resume:
   # Publish:
   # Trophy:
@@ -35,7 +35,7 @@ links:
   # AliPay:
   # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
-  # FaceBook:
+  Facebook: https://www.facebook.com/jir4vvit
   Twitter: https://twitter.com/jir4vvit
   # Skype:
   # CodeSandBox:
@@ -50,8 +50,6 @@ links:
   # Weibo:
   # WeChat:
   # Github: https://github.com/jiravvit
-  Facebook: https://www.facebook.com/jir4vvit
-  # Mail: jirabbit05@gmail.com
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
